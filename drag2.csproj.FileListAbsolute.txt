@@ -1,0 +1,8 @@
+c:\users\admin\documents\visual studio 2012\Projects\drag2\drag2\bin\Debug\drag2.exe
+c:\users\admin\documents\visual studio 2012\Projects\drag2\drag2\bin\Debug\drag2.pdb
+c:\users\admin\documents\visual studio 2012\Projects\drag2\drag2\obj\Debug\drag2.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\drag2\drag2\obj\Debug\drag2.Form1.resources
+c:\users\admin\documents\visual studio 2012\Projects\drag2\drag2\obj\Debug\drag2.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2012\Projects\drag2\drag2\obj\Debug\drag2.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2012\Projects\drag2\drag2\obj\Debug\drag2.exe
+c:\users\admin\documents\visual studio 2012\Projects\drag2\drag2\obj\Debug\drag2.pdb
