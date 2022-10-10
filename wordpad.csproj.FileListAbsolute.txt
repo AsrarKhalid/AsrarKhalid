@@ -1,0 +1,8 @@
+c:\users\admin\documents\visual studio 2012\Projects\wordpad\wordpad\bin\Debug\wordpad.exe
+c:\users\admin\documents\visual studio 2012\Projects\wordpad\wordpad\bin\Debug\wordpad.pdb
+c:\users\admin\documents\visual studio 2012\Projects\wordpad\wordpad\obj\Debug\wordpad.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\wordpad\wordpad\obj\Debug\wordpad.Form1.resources
+c:\users\admin\documents\visual studio 2012\Projects\wordpad\wordpad\obj\Debug\wordpad.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2012\Projects\wordpad\wordpad\obj\Debug\wordpad.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2012\Projects\wordpad\wordpad\obj\Debug\wordpad.exe
+c:\users\admin\documents\visual studio 2012\Projects\wordpad\wordpad\obj\Debug\wordpad.pdb
